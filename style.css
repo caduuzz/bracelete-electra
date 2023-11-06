@@ -1,0 +1,32 @@
+body {
+    background-color: lightsteelblue;
+   text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.para1 {
+    font-size: 33px;
+    text-align: left;
+    width: 50%;
+    display: inline-block;
+    margin-left: auto;
+    
+}
+
+.img {
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+    
+
+.img2 {
+    width: 20%;
+}
+
