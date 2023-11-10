@@ -30,3 +30,8 @@ h1 {
     width: 20%;
 }
 
+@media screen and (max-width: 600px){
+    .img2 {
+        width: 80%;
+    }
+}
